@@ -1,4 +1,6 @@
 # React-Tailwinds Task Tracker
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/benedictkioko/react-task-tracker.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/benedictkioko/react-task-tracker/context:javascript)
+
 
 In the project directory, you can run:
 

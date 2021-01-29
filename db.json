@@ -10,7 +10,7 @@
       "id": 2,
       "text": "Project Sync",
       "day": "Feb 5th at 10:30 am",
-      "reminder": true
+      "reminder": false
     },
     {
       "text": "Meeting at work",
@@ -21,7 +21,7 @@
     {
       "text": "CEH Exam",
       "day": "Feb 8th at 12:30 pm",
-      "reminder": "false",
+      "reminder": false,
       "id": 4
     }
   ]
